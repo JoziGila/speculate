@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "Speculate Contributors"}
 ]
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -37,8 +37,8 @@ dev = [
 speculate = "speculate.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/speculate"
-Repository = "https://github.com/yourusername/speculate"
+Homepage = "https://github.com/speculate-app/speculate"
+Repository = "https://github.com/speculate-app/speculate"
 
 [tool.black]
 line-length = 88
